@@ -1,0 +1,9 @@
+1. deadlock-avoidance.c
+2. deadlock-detection.c
+3. fcfs-scheduling.c
+4. first-fit.c
+5. page-replacement-fifo.c
+6. producer-consumer.c
+7. scan.c
+8. sequential-allocation.c
+9. system-calls.c
